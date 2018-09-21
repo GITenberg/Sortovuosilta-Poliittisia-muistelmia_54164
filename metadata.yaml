@@ -1,5 +1,8 @@
 _repo: Sortovuosilta-Poliittisia-muistelmia_54164
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zilliacus, Konni
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '45664'
     url: http://www.gutenberg.org/2009/agents/45664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54164#Sortovuosilta-Poliittisia-muistelmia
 gutenberg_issued: '2017-02-14'
 gutenberg_type: Text
 identifiers:
